@@ -98,3 +98,7 @@
 ## 7. 總結
 
 `always @(*) begin ... end` 是 Verilog 描述組合邏輯最常用、最安全的寫法之一：輸入一變，輸出就依照區塊內邏輯立即更新。
+
+## 8 to 3 模擬結果
+<img width="1232" height="622" alt="image" src="https://github.com/user-attachments/assets/d9124d1b-6a82-4b72-a341-c41af2f6a3bc" />
+
